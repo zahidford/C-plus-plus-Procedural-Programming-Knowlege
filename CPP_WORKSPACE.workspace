@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPP_WORKSPACE" Database="" Version="10.0.0">
+  <Project Name="First_C_plus_test" Path="First_C_plus_test/First_C_plus_test.project" Active="No"/>
+  <Project Name="Sample_Project_1" Path="Sample_Project_1/Sample_Project_1.project" Active="No"/>
+  <Project Name="First_Program_In_C" Path="First_Program_In_C/First_Program_In_C.project" Active="No"/>
+  <Project Name="Initializing_Variables" Path="Initializing_Variables/Initializing_Variables.project" Active="No"/>
+  <Project Name="Different_variables_Execution" Path="Different_variables_Execution/Different_variables_Execution.project" Active="No"/>
+  <Project Name="Using_Size_of_operator" Path="Using_Size_of_operator/Using_Size_of_operator.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="First_C_plus_test" ConfigName="Debug"/>
+      <Project Name="Sample_Project_1" ConfigName="Debug"/>
+      <Project Name="First_Program_In_C" ConfigName="Debug"/>
+      <Project Name="Initializing_Variables" ConfigName="Debug"/>
+      <Project Name="Different_variables_Execution" ConfigName="Debug"/>
+      <Project Name="Using_Size_of_operator" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="First_C_plus_test" ConfigName="Release"/>
+      <Project Name="Sample_Project_1" ConfigName="Release"/>
+      <Project Name="First_Program_In_C" ConfigName="Release"/>
+      <Project Name="Initializing_Variables" ConfigName="Release"/>
+      <Project Name="Different_variables_Execution" ConfigName="Release"/>
+      <Project Name="Using_Size_of_operator" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

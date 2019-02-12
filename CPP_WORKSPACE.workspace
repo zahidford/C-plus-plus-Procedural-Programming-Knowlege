@@ -5,7 +5,22 @@
   <Project Name="First_Program_In_C" Path="First_Program_In_C/First_Program_In_C.project" Active="No"/>
   <Project Name="Initializing_Variables" Path="Initializing_Variables/Initializing_Variables.project" Active="No"/>
   <Project Name="Different_variables_Execution" Path="Different_variables_Execution/Different_variables_Execution.project" Active="No"/>
-  <Project Name="Using_Size_of_operator" Path="Using_Size_of_operator/Using_Size_of_operator.project" Active="Yes"/>
+  <Project Name="Using_Size_of_operator" Path="Using_Size_of_operator/Using_Size_of_operator.project" Active="No"/>
+  <Project Name="Declarind_and_using_constants" Path="Declarind_and_using_constants/Declarind_and_using_constants.project" Active="No"/>
+  <Project Name="Delaraing_Array" Path="Delaraing_Array/Delaraing_Array.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
+  <Project Name="Using_vectors_example_2" Path="Using_vectors_example_2/Using_vectors_example_2.project" Active="No"/>
+  <Project Name="Assignment_operator" Path="Assignment_operator/Assignment_operator.project" Active="No"/>
+  <Project Name="Aithmatic_operator" Path="Aithmatic_operator/Aithmatic_operator.project" Active="No"/>
+  <Project Name="Convert_Eur_to_USD" Path="Convert_Eur_to_USD/Convert_Eur_to_USD.project" Active="No"/>
+  <Project Name="Increment_decrement_operator" Path="Increment_decrement_operator/Increment_decrement_operator.project" Active="No"/>
+  <Project Name="understanding_mix_Expressions_and_conversions" Path="understanding_mix_Expressions_and_conversions/understanding_mix_Expressions_and_conversions.project" Active="No"/>
+  <Project Name="Testing_for_equality" Path="Testing_for_equality/Testing_for_equality.project" Active="No"/>
+  <Project Name="Relational_Operators" Path="Relational_Operators/Relational_Operators.project" Active="No"/>
+  <Project Name="Using_logical_operators" Path="Using_logical_operators/Using_logical_operators.project" Active="No"/>
+  <Project Name="Compund_operators" Path="Compund_operators/Compund_operators.project" Active="No"/>
+  <Project Name="Operatos_Precedence" Path="Operatos_Precedence/Operatos_Precedence.project" Active="No"/>
+  <Project Name="Counting_number_of_change" Path="Counting_number_of_change/Counting_number_of_change.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -15,6 +30,21 @@
       <Project Name="Initializing_Variables" ConfigName="Debug"/>
       <Project Name="Different_variables_Execution" ConfigName="Debug"/>
       <Project Name="Using_Size_of_operator" ConfigName="Debug"/>
+      <Project Name="Declarind_and_using_constants" ConfigName="Debug"/>
+      <Project Name="Delaraing_Array" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="Using_vectors_example_2" ConfigName="Debug"/>
+      <Project Name="Assignment_operator" ConfigName="Debug"/>
+      <Project Name="Aithmatic_operator" ConfigName="Debug"/>
+      <Project Name="Convert_Eur_to_USD" ConfigName="Debug"/>
+      <Project Name="Increment_decrement_operator" ConfigName="Debug"/>
+      <Project Name="understanding_mix_Expressions_and_conversions" ConfigName="Debug"/>
+      <Project Name="Testing_for_equality" ConfigName="Debug"/>
+      <Project Name="Relational_Operators" ConfigName="Debug"/>
+      <Project Name="Using_logical_operators" ConfigName="Debug"/>
+      <Project Name="Compund_operators" ConfigName="Debug"/>
+      <Project Name="Operatos_Precedence" ConfigName="Debug"/>
+      <Project Name="Counting_number_of_change" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -24,6 +54,21 @@
       <Project Name="Initializing_Variables" ConfigName="Release"/>
       <Project Name="Different_variables_Execution" ConfigName="Release"/>
       <Project Name="Using_Size_of_operator" ConfigName="Release"/>
+      <Project Name="Declarind_and_using_constants" ConfigName="Release"/>
+      <Project Name="Delaraing_Array" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
+      <Project Name="Using_vectors_example_2" ConfigName="Release"/>
+      <Project Name="Assignment_operator" ConfigName="Release"/>
+      <Project Name="Aithmatic_operator" ConfigName="Release"/>
+      <Project Name="Convert_Eur_to_USD" ConfigName="Release"/>
+      <Project Name="Increment_decrement_operator" ConfigName="Release"/>
+      <Project Name="understanding_mix_Expressions_and_conversions" ConfigName="Release"/>
+      <Project Name="Testing_for_equality" ConfigName="Release"/>
+      <Project Name="Relational_Operators" ConfigName="Release"/>
+      <Project Name="Using_logical_operators" ConfigName="Release"/>
+      <Project Name="Compund_operators" ConfigName="Release"/>
+      <Project Name="Operatos_Precedence" ConfigName="Release"/>
+      <Project Name="Counting_number_of_change" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Counting_number_of_change - Debug ]----------"
-	@cd "Counting_number_of_change" && "$(MAKE)" -f  "Counting_number_of_change.mk"
+	@echo "----------Building project:[ pointer_to_functions_3 - Debug ]----------"
+	@cd "pointer_to_functions_3" && "$(MAKE)" -f  "pointer_to_functions_3.mk"
 clean:
-	@echo "----------Cleaning project:[ Counting_number_of_change - Debug ]----------"
-	@cd "Counting_number_of_change" && "$(MAKE)" -f  "Counting_number_of_change.mk" clean
+	@echo "----------Cleaning project:[ pointer_to_functions_3 - Debug ]----------"
+	@cd "pointer_to_functions_3" && "$(MAKE)" -f  "pointer_to_functions_3.mk" clean

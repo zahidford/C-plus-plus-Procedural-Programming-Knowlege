@@ -20,7 +20,56 @@
   <Project Name="Using_logical_operators" Path="Using_logical_operators/Using_logical_operators.project" Active="No"/>
   <Project Name="Compund_operators" Path="Compund_operators/Compund_operators.project" Active="No"/>
   <Project Name="Operatos_Precedence" Path="Operatos_Precedence/Operatos_Precedence.project" Active="No"/>
-  <Project Name="Counting_number_of_change" Path="Counting_number_of_change/Counting_number_of_change.project" Active="Yes"/>
+  <Project Name="Counting_number_of_change" Path="Counting_number_of_change/Counting_number_of_change.project" Active="No"/>
+  <Project Name="if_statement" Path="if_statement/if_statement.project" Active="No"/>
+  <Project Name="if_else_statement" Path="if_else_statement/if_else_statement.project" Active="No"/>
+  <Project Name="Nested_if_statement" Path="Nested_if_statement/Nested_if_statement.project" Active="No"/>
+  <Project Name="Shipping_cost_calculator" Path="Shipping_cost_calculator/Shipping_cost_calculator.project" Active="No"/>
+  <Project Name="Switch_Statement" Path="Switch_Statement/Switch_Statement.project" Active="No"/>
+  <Project Name="Enummeration" Path="Enummeration/Enummeration.project" Active="No"/>
+  <Project Name="Conditional_Operator" Path="Conditional_Operator/Conditional_Operator.project" Active="No"/>
+  <Project Name="Using_For_Loop" Path="Using_For_Loop/Using_For_Loop.project" Active="No"/>
+  <Project Name="Range_based_for_loop" Path="Range_based_for_loop/Range_based_for_loop.project" Active="No"/>
+  <Project Name="While_Loop" Path="While_Loop/While_Loop.project" Active="No"/>
+  <Project Name="do_while" Path="do_while/do_while.project" Active="No"/>
+  <Project Name="Using_Continue_and_Break" Path="Using_Continue_and_Break/Using_Continue_and_Break.project" Active="No"/>
+  <Project Name="Dummy_Infinite_LOOP_DONT_RUN" Path="Dummy_Infinite_LOOP_DONT_RUN/Dummy_Infinite_LOOP_DONT_RUN.project" Active="No"/>
+  <Project Name="Nested_Loops" Path="Nested_Loops/Nested_Loops.project" Active="No"/>
+  <Project Name="Historgram_using_histogram" Path="Historgram_using_histogram/Historgram_using_histogram.project" Active="No"/>
+  <Project Name="Action_based_output" Path="Action_based_output/Action_based_output.project" Active="No"/>
+  <Project Name="Nested_vector_access" Path="Nested_vector_access/Nested_vector_access.project" Active="No"/>
+  <Project Name="String_functions" Path="String_functions/String_functions.project" Active="No"/>
+  <Project Name="working_with_C_style_strings" Path="working_with_C_style_strings/working_with_C_style_strings.project" Active="No"/>
+  <Project Name="C_plus_string" Path="C_plus_string/C_plus_string.project" Active="No"/>
+  <Project Name="C_plus_plus_string_objects" Path="C_plus_plus_string_objects/C_plus_plus_string_objects.project" Active="No"/>
+  <Project Name="Substitution_cipher" Path="Substitution_cipher/Substitution_cipher.project" Active="No"/>
+  <Project Name="String_pyramid" Path="String_pyramid/String_pyramid.project" Active="No"/>
+  <Project Name="LMAO" Path="LMAO/LMAO.project" Active="No"/>
+  <Project Name="Using_C_Math_library" Path="Using_C_Math_library/Using_C_Math_library.project" Active="No"/>
+  <Project Name="Sorting_Files_Fujitsu_internsip" Path="Sorting_Files_Fujitsu_internsip/Sorting_Files_Fujitsu_internsip.project" Active="No"/>
+  <Project Name="EReport" Path="EReport/EReport.project" Active="No"/>
+  <Project Name="declaring_functions_1" Path="declaring_functions_1/declaring_functions_1.project" Active="No"/>
+  <Project Name="template" Path="template/template.project" Active="No"/>
+  <Project Name="generate_random_numbers_1" Path="generate_random_numbers_1/generate_random_numbers_1.project" Active="No"/>
+  <Project Name="generate_random_numbers2" Path="generate_random_numbers2/generate_random_numbers2.project" Active="No"/>
+  <Project Name="Creating_new_Functions" Path="Creating_new_Functions/Creating_new_Functions.project" Active="No"/>
+  <Project Name="functions_pass_value" Path="functions_pass_value/functions_pass_value.project" Active="No"/>
+  <Project Name="using_default_function_arguments" Path="using_default_function_arguments/using_default_function_arguments.project" Active="No"/>
+  <Project Name="polymorphism" Path="polymorphism/polymorphism.project" Active="No"/>
+  <Project Name="Passing_array_in_functions" Path="Passing_array_in_functions/Passing_array_in_functions.project" Active="No"/>
+  <Project Name="pass_by_reference" Path="pass_by_reference/pass_by_reference.project" Active="No"/>
+  <Project Name="Scope_Rules" Path="Scope_Rules/Scope_Rules.project" Active="No"/>
+  <Project Name="Recursive_function_Fibonacchi" Path="Recursive_function_Fibonacchi/Recursive_function_Fibonacchi.project" Active="No"/>
+  <Project Name="Action_based_ouput_modularized" Path="Action_based_ouput_modularized/Action_based_ouput_modularized.project" Active="No"/>
+  <Project Name="pointer_initialization" Path="pointer_initialization/pointer_initialization.project" Active="No"/>
+  <Project Name="dereferencing_pointers" Path="Dereferencing_string/Dereferencing_string.project" Active="No"/>
+  <Project Name="memory_allocation" Path="memory_allocation/memory_allocation.project" Active="No"/>
+  <Project Name="Array_Pointers_differenciation" Path="Array_Pointers_differenciation/Array_Pointers_differenciation.project" Active="No"/>
+  <Project Name="pointer_arithmatic" Path="pointer_arithmatic/pointer_arithmatic.project" Active="No"/>
+  <Project Name="Const_pointer" Path="Const_pointer/Const_pointer.project" Active="No"/>
+  <Project Name="Pointer_to_functios" Path="Pointer_to_functios/Pointer_to_functios.project" Active="No"/>
+  <Project Name="pointer_to_functions2" Path="pointer_to_functions2/pointer_to_functions2.project" Active="No"/>
+  <Project Name="pointer_to_functions_3" Path="pointer_to_functions_3/pointer_to_functions_3.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -45,6 +94,55 @@
       <Project Name="Compund_operators" ConfigName="Debug"/>
       <Project Name="Operatos_Precedence" ConfigName="Debug"/>
       <Project Name="Counting_number_of_change" ConfigName="Debug"/>
+      <Project Name="if_statement" ConfigName="Debug"/>
+      <Project Name="if_else_statement" ConfigName="Debug"/>
+      <Project Name="Nested_if_statement" ConfigName="Debug"/>
+      <Project Name="Shipping_cost_calculator" ConfigName="Debug"/>
+      <Project Name="Switch_Statement" ConfigName="Debug"/>
+      <Project Name="Enummeration" ConfigName="Debug"/>
+      <Project Name="Conditional_Operator" ConfigName="Debug"/>
+      <Project Name="Using_For_Loop" ConfigName="Debug"/>
+      <Project Name="Range_based_for_loop" ConfigName="Debug"/>
+      <Project Name="While_Loop" ConfigName="Debug"/>
+      <Project Name="do_while" ConfigName="Debug"/>
+      <Project Name="Using_Continue_and_Break" ConfigName="Debug"/>
+      <Project Name="Dummy_Infinite_LOOP_DONT_RUN" ConfigName="Debug"/>
+      <Project Name="Nested_Loops" ConfigName="Debug"/>
+      <Project Name="Historgram_using_histogram" ConfigName="Debug"/>
+      <Project Name="Action_based_output" ConfigName="Debug"/>
+      <Project Name="Nested_vector_access" ConfigName="Debug"/>
+      <Project Name="String_functions" ConfigName="Debug"/>
+      <Project Name="working_with_C_style_strings" ConfigName="Debug"/>
+      <Project Name="C_plus_string" ConfigName="Debug"/>
+      <Project Name="C_plus_plus_string_objects" ConfigName="Debug"/>
+      <Project Name="Substitution_cipher" ConfigName="Debug"/>
+      <Project Name="String_pyramid" ConfigName="Debug"/>
+      <Project Name="LMAO" ConfigName="Debug"/>
+      <Project Name="Using_C_Math_library" ConfigName="Debug"/>
+      <Project Name="Sorting_Files_Fujitsu_internsip" ConfigName="Debug"/>
+      <Project Name="EReport" ConfigName="Debug"/>
+      <Project Name="declaring_functions_1" ConfigName="Debug"/>
+      <Project Name="template" ConfigName="Debug"/>
+      <Project Name="generate_random_numbers_1" ConfigName="Debug"/>
+      <Project Name="generate_random_numbers2" ConfigName="Debug"/>
+      <Project Name="Creating_new_Functions" ConfigName="Debug"/>
+      <Project Name="functions_pass_value" ConfigName="Debug"/>
+      <Project Name="using_default_function_arguments" ConfigName="Debug"/>
+      <Project Name="polymorphism" ConfigName="Debug"/>
+      <Project Name="Passing_array_in_functions" ConfigName="Debug"/>
+      <Project Name="pass_by_reference" ConfigName="Debug"/>
+      <Project Name="Scope_Rules" ConfigName="Debug"/>
+      <Project Name="Recursive_function_Fibonacchi" ConfigName="Debug"/>
+      <Project Name="Action_based_ouput_modularized" ConfigName="Debug"/>
+      <Project Name="pointer_initialization" ConfigName="Debug"/>
+      <Project Name="dereferencing_pointers" ConfigName="Debug"/>
+      <Project Name="memory_allocation" ConfigName="Debug"/>
+      <Project Name="Array_Pointers_differenciation" ConfigName="Debug"/>
+      <Project Name="pointer_arithmatic" ConfigName="Debug"/>
+      <Project Name="Const_pointer" ConfigName="Debug"/>
+      <Project Name="Pointer_to_functios" ConfigName="Debug"/>
+      <Project Name="pointer_to_functions2" ConfigName="Debug"/>
+      <Project Name="pointer_to_functions_3" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -69,6 +167,55 @@
       <Project Name="Compund_operators" ConfigName="Release"/>
       <Project Name="Operatos_Precedence" ConfigName="Release"/>
       <Project Name="Counting_number_of_change" ConfigName="Release"/>
+      <Project Name="if_statement" ConfigName="Release"/>
+      <Project Name="if_else_statement" ConfigName="Release"/>
+      <Project Name="Nested_if_statement" ConfigName="Release"/>
+      <Project Name="Shipping_cost_calculator" ConfigName="Release"/>
+      <Project Name="Switch_Statement" ConfigName="Release"/>
+      <Project Name="Enummeration" ConfigName="Release"/>
+      <Project Name="Conditional_Operator" ConfigName="Release"/>
+      <Project Name="Using_For_Loop" ConfigName="Release"/>
+      <Project Name="Range_based_for_loop" ConfigName="Release"/>
+      <Project Name="While_Loop" ConfigName="Release"/>
+      <Project Name="do_while" ConfigName="Release"/>
+      <Project Name="Using_Continue_and_Break" ConfigName="Release"/>
+      <Project Name="Dummy_Infinite_LOOP_DONT_RUN" ConfigName="Release"/>
+      <Project Name="Nested_Loops" ConfigName="Release"/>
+      <Project Name="Historgram_using_histogram" ConfigName="Release"/>
+      <Project Name="Action_based_output" ConfigName="Release"/>
+      <Project Name="Nested_vector_access" ConfigName="Release"/>
+      <Project Name="String_functions" ConfigName="Release"/>
+      <Project Name="working_with_C_style_strings" ConfigName="Release"/>
+      <Project Name="C_plus_string" ConfigName="Release"/>
+      <Project Name="C_plus_plus_string_objects" ConfigName="Release"/>
+      <Project Name="Substitution_cipher" ConfigName="Release"/>
+      <Project Name="String_pyramid" ConfigName="Release"/>
+      <Project Name="LMAO" ConfigName="Release"/>
+      <Project Name="Using_C_Math_library" ConfigName="Release"/>
+      <Project Name="Sorting_Files_Fujitsu_internsip" ConfigName="Release"/>
+      <Project Name="EReport" ConfigName="Release"/>
+      <Project Name="declaring_functions_1" ConfigName="Release"/>
+      <Project Name="template" ConfigName="Release"/>
+      <Project Name="generate_random_numbers_1" ConfigName="Release"/>
+      <Project Name="generate_random_numbers2" ConfigName="Release"/>
+      <Project Name="Creating_new_Functions" ConfigName="Release"/>
+      <Project Name="functions_pass_value" ConfigName="Release"/>
+      <Project Name="using_default_function_arguments" ConfigName="Release"/>
+      <Project Name="polymorphism" ConfigName="Release"/>
+      <Project Name="Passing_array_in_functions" ConfigName="Release"/>
+      <Project Name="pass_by_reference" ConfigName="Release"/>
+      <Project Name="Scope_Rules" ConfigName="Release"/>
+      <Project Name="Recursive_function_Fibonacchi" ConfigName="Release"/>
+      <Project Name="Action_based_ouput_modularized" ConfigName="Release"/>
+      <Project Name="pointer_initialization" ConfigName="Release"/>
+      <Project Name="dereferencing_pointers" ConfigName="Release"/>
+      <Project Name="memory_allocation" ConfigName="Release"/>
+      <Project Name="Array_Pointers_differenciation" ConfigName="Release"/>
+      <Project Name="pointer_arithmatic" ConfigName="Release"/>
+      <Project Name="Const_pointer" ConfigName="Release"/>
+      <Project Name="Pointer_to_functios" ConfigName="Release"/>
+      <Project Name="pointer_to_functions2" ConfigName="Release"/>
+      <Project Name="pointer_to_functions_3" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

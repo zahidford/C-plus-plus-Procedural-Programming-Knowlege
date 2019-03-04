@@ -28,14 +28,15 @@ int main()
         }
         
         // Adding a number to list
-         if (options =='A' || options =='a'){
+         if (options =='A' || options =='a')
+            {
               cout << "===== Enter a number you wish to add =====" << endl; 
               int number_to_add;
               cin >> number_to_add;
               numbers.push_back( number_to_add );
               cout << "The number " << number_to_add << " was added"<<endl;
               
-         }
+            }
         // Calculating Mean of the variable
          if (options =='M' || options =='m'){
               cout << "===== The mean value of the list is =====" << endl; 
